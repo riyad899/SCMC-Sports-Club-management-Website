@@ -62,6 +62,8 @@ npm run dev
 </code></pre>
 
 <h3>Backend Setup</h3>
+<h2>🔗 Backend Reposetory:</h2>
+<p>👉 <a href="https://github.com/riyad899/SCMC-Backend" target="_blank">Backend repo scms</a></p>
 <pre><code>cd server
 npm install
 npm run start
